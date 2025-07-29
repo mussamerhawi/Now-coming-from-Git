@@ -1,0 +1,3 @@
+#ignore files with .txt extension
+*.txt
+
